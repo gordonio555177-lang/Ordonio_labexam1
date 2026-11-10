@@ -1,7 +1,7 @@
 # Shopping Cart Page (StatelessWidget Lab Exam)
 
 **Project Name:** `stateless_lab_exam`  
-**Student Name:** Kim Lupogan  
+**Student Name:** Gerude Ordonio  
 **Course / Laboratory:** Mobile Application Development  
 
 ---
